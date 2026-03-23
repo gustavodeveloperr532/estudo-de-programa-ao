@@ -1,0 +1,24 @@
+{
+  "name": "estudo-de-programa-ao",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gustavodeveloperr532/estudo-de-programa-ao#readme",
+  "bugs": {
+    "url": "https://github.com/gustavodeveloperr532/estudo-de-programa-ao/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavodeveloperr532/estudo-de-programa-ao.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "clone-table.js",
+  "scripts": {
+   "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
